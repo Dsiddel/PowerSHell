@@ -1,0 +1,1 @@
+Convert-MsolDomainToStandard –DomainName X –PasswordFile C:\users\daniel\desktop\curraghpathpasswords.txt
